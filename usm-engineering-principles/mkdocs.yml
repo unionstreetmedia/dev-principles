@@ -1,0 +1,5 @@
+site_name: USM Engineering Principles
+nav:
+  - Home: index.md
+  - Core: core.md
+  - Agility: agility.md
