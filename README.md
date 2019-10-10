@@ -18,7 +18,9 @@ Inspired from:
 
 ## Running Locally
 
-This project is using [MkDocs](https://www.mkdocs.org/#installation). Make sure you have it installed before you proceed.
+#### Prerequisites
+
+- [MkDocs](https://www.mkdocs.org/#installation)
 
 ```
 cd usm-engineering-principles
@@ -27,4 +29,16 @@ mkdocs serve
 
 ## Deployment
 
-TODO
+The static website is automatically generated and deployed when merged into master. The `buildspec.yml` file contains the definition of the build process. The deployment is orchestrated in the [CodePipeline project](https://console.aws.amazon.com/codesuite/codepipeline/pipelines/eng-principles/view?region=us-east-1).
+
+### Building locally
+
+The following script will run the CodeBuild process locally and generate artifacts in `.codebuild_output/`. 
+
+```
+. local/run_build.sh
+```
+
+#### Prerequisites
+
+Ensure you have the `aws/codebuild/standard:2.0` CodeBuild image built locally. You can follow the instructions [here](https://github.com/aws/aws-codebuild-docker-images#how-to-build-docker-images)
