@@ -1,5 +1,6 @@
 # Engineering Culture
 
+## Code as Craft 
 Software craftsmanship, or “code as craft”, has been the subject of debate for years. It even has its own [manifesto](http://manifesto.softwarecraftsmanship.org/). 
 
 While we respect that all perspectives on the subject have merit, we believe software development should be approached more as a craft than art or science for the following reasons:
