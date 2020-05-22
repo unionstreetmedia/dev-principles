@@ -1,4 +1,4 @@
-# Culture Principles
+# Engineering Culture
 
 Software craftsmanship, or “code as craft”, has been the subject of debate for years. It even has its own [manifesto](http://manifesto.softwarecraftsmanship.org/). 
 
