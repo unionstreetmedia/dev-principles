@@ -33,3 +33,10 @@ Consider the single responsibility principle even sometimes at the expense of DR
 > of work not done--is essential.
 
 Simplicity is a core [principle of agile principles](https://agilemanifesto.org/principles.html). Simple code is easy to maintain. When in doubt, choose simple over complicated.
+
+## Use accepted by community tools and libraries
+
+We prefer to use tools and libraries that are widespread over the community for your language, framework, etc.
+Community accepted tools, libraries are usually well documented, tested, and receive updates/fixes more frequently. 
+Also, you can get help from the community easier and faster when a tool is commonly used in the community.
+Any developer who will work with your project in the future might need to learn new tools and it's a way easier with good documentation and reach the community.
