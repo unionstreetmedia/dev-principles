@@ -1,5 +1,0 @@
-.vscode
-**/venv/**
-usm-engineering-principles/site/**
-.DS_Store
-.codebuild_output/**/*
