@@ -11,7 +11,7 @@
 
 - use tools and libraries that are well supported in the community
 - prioritize code maintainability over code duplication
-- set ourselves up for frequent refactoring
+- set yourself up for [frequent refactoring](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
 - use intention revealing names
 - write self documenting code
 - don't leave [broken windows](https://blog.codinghorror.com/the-broken-window-theory/) unrepaired
