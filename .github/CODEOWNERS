@@ -1,8 +1,0 @@
-# This is a comment.
-# Each line is a file pattern followed by one or more owners.
-
-# About github code owners and syntax: https://help.github.com/en/articles/about-code-owners
-
-# These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,
-*   @andriytam @cshlatz @cwollensak @DoutchakVasya @fran-grav @lboright @levijackson @smaraf @TarasDerenko @toddlamothe @VitaliiGavadzyn @yuriy-chabaniuk

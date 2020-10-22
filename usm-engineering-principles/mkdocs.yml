@@ -1,8 +1,0 @@
-site_name: USM Engineering Principles
-nav:
-  - Home: index.md
-  - Core: core.md
-  - Agility: agility.md
-  - Architecture: architecture.md
-  - Quality: quality.md
-  - Culture: culture.md 
