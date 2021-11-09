@@ -15,6 +15,7 @@
 - use intention revealing names
 - write self documenting code
 - don't leave [broken windows](https://blog.codinghorror.com/the-broken-window-theory/) unrepaired
+- Pending code reviews represent blocked threads of execution. To prevent getting blocked for more time than is necessary, [make your pull requests a pleasure to read](https://medium.com/@9len/on-code-review-16ea85f7c585)
 
 ## Quality
 
