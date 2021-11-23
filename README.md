@@ -5,7 +5,7 @@
 - [be nice to future you](docs/be-nice-to-future-you.md)
 - choose simple over complicated
 - approach [building software as a craft](http://manifesto.softwarecraftsmanship.org/)
-- value [agile](https://agilemanifesto.org/) over scrum/kanban/other framework
+- [value agile over scrum/kanban/other framework](docs/agile.md)
 
 ## Building Software
 
