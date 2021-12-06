@@ -24,6 +24,7 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 ## Quality
 
 - prioritize quality over speed | [the only way to go fast is to go well](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
+- [test, automate, test, automate](docs/automate-tests.md)
 
 ## Inspired from:
 
