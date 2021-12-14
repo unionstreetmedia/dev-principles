@@ -2,10 +2,10 @@
 
 ## Culture
 
-- be nice to future you
+- [be nice to future you](docs/be-nice-to-future-you.md)
 - choose simple over complicated
 - approach [building software as a craft](http://manifesto.softwarecraftsmanship.org/)
-- value [agile](https://agilemanifesto.org/) over scrum/kanban/other framework
+- [value agile over scrum/kanban/other framework](docs/agile.md)
 
 ## Building Software
 
@@ -24,6 +24,7 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 ## Quality
 
 - prioritize quality over speed | [the only way to go fast is to go well](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
+- [test, automate, test, automate](docs/automate-tests.md)
 
 ## Inspired from:
 
