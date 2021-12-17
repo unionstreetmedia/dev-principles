@@ -26,6 +26,12 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 - prioritize quality over speed | [the only way to go fast is to go well](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 - [test, automate, test, automate](docs/automate-tests.md)
 
+## Continuous Delivery
+
+We strive to [deliver continuously](https://continuousdelivery.com/) into production in order to get new functionality into the hands of users safely and quickly. 
+
+- [if it hurts, do it more often](https://medium.com/continuousdelivery/if-it-hurts-do-it-more-often-f5a00cc12ffa)
+
 ## Inspired from:
 
 - https://github.com/daftlabs/creed
