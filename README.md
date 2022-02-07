@@ -12,14 +12,17 @@
 - use tools and libraries that are well supported in the community
 - prioritize code maintainability over code duplication
 - set yourself up for [frequent refactoring](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
-- use intention revealing names
+- use [intention revealing names](docs/descriptive-names.md)
 - write self documenting code
 - don't leave [broken windows](https://blog.codinghorror.com/the-broken-window-theory/) unrepaired
- 
+
 ## Code Reviews
-Pending code reviews represent blocked threads of execution. To prevent getting blocked for more time than is necessary, follow these basic principles (inspired by [Glen Stanford](https://medium.com/@9len/on-code-review-16ea85f7c585)):
+Pending code reviews represent blocked threads of execution. To prevent getting blocked for more
+time than is necessary, follow these basic principles (inspired by
+[Glen Stanford](https://medium.com/@9len/on-code-review-16ea85f7c585)):
+
 - make code reviews your top priority
-- make your pull requests a pleasure to read 
+- make your pull requests a pleasure to read
 
 ## Quality
 
@@ -28,7 +31,7 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 
 ## Continuous Delivery
 
-We strive to [deliver continuously](https://continuousdelivery.com/) into production in order to get new functionality into the hands of users safely and quickly. 
+We strive to [deliver continuously](https://continuousdelivery.com/) into production in order to get new functionality into the hands of users safely and quickly.
 
 - [if it hurts, do it more often](https://medium.com/continuousdelivery/if-it-hurts-do-it-more-often-f5a00cc12ffa)
 

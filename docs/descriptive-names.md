@@ -30,3 +30,9 @@ private function renderMinimalSchemaListing( \RealEstate\MinimalListing $listing
 ```
 private function renderSchemaListingMinimal( \RealEstate\MinimalListing $l, int $t) {}
 ```
+
+## Resources
+
+This document uses inspiration from
+[this article](https://hackernoon.com/how-to-write-clean-code-d557d998bb08) by Luan Nguyen
+summarizing Robert C. Martin's approach to writing clean code.
