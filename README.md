@@ -25,7 +25,7 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 
 - prioritize quality over speed | [the only way to go fast is to go well](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 - [test, automate, test, automate](docs/automate-tests.md)
-- Tend your [test garden](docs/automate-tests.md#tend-your-test-garden)
+- tend your [test garden](docs/automate-tests.md#tend-your-test-garden)
 
 ## Continuous Delivery
 
