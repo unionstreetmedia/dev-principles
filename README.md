@@ -28,6 +28,7 @@ time than is necessary, follow these basic principles (inspired by
 
 - prioritize quality over speed | [the only way to go fast is to go well](http://butunclebob.com/ArticleS.UncleBob.VehementMediocrity)
 - [test, automate, test, automate](docs/automate-tests.md)
+- tend your [test garden](docs/automate-tests.md#tend-your-test-garden)
 
 ## Continuous Delivery
 
