@@ -35,9 +35,9 @@ time than is necessary, follow these basic principles (inspired by
 We strive to [deliver continuously](https://continuousdelivery.com/) into production in order to get new functionality into the hands of users safely and quickly.
 
 - [if it hurts, do it more often](https://medium.com/continuousdelivery/if-it-hurts-do-it-more-often-f5a00cc12ffa)
+- [use automated code formatters](docs/format-code-automatically.md)
 
 ## Inspired from:
 
 - https://github.com/daftlabs/creed
 - http://engineering-principles.onejl.uk/
-
