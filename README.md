@@ -3,7 +3,7 @@
 ## Culture
 
 - [be nice to future you](docs/be-nice-to-future-you.md)
-- choose simple over complicated
+- choose [simple over complicated](docs/simple-over-complicated.md)
 - approach [building software as a craft](http://manifesto.softwarecraftsmanship.org/)
 - [value agile over scrum/kanban/other framework](docs/agile.md)
 
