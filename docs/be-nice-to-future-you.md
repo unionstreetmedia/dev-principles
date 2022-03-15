@@ -5,4 +5,6 @@ Whenever you make a change, take a moment to imagine how it will impact you or y
 * Am I going to remember this?
 * Will it make things harder to change?
 
+Keep in mind that 'temporary' changes often stick with you much longer than you anticipate.
+
 [< back](../README.md)
