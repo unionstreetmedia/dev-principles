@@ -8,5 +8,6 @@ Some things to remember:
 * Use design patterns to solve real needs instead of imagined ones.
 * If you suspect that something is slow, don’t guess, test it.
 * Added complexity has a long-term costs that should be considered.
+* [Choose boring technology.](https://boringtechnology.club/)
 
 [< back](../README.md)
