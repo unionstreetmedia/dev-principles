@@ -9,6 +9,7 @@
 
 ## Building Software
 
+- working software is the primary measure of progress
 - use tools and libraries that are well supported in the community
 - prioritize code maintainability over code duplication
 - set yourself up for [frequent refactoring](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
