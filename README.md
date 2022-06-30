@@ -22,8 +22,20 @@ Pending code reviews represent blocked threads of execution. To prevent getting 
 time than is necessary, follow these basic principles (inspired by
 [Glen Stanford](https://medium.com/@9len/on-code-review-16ea85f7c585)):
 
+### Reviewers
+
 - make code reviews your top priority
+- be thorough each and every time
+
+### Submitters
+
 - make your pull requests a pleasure to read
+  - write good titles and descriptions
+  - keep review requests as small as possible
+- dot your i's and j's:
+  - carefully review the diff
+  - make sure you wrote code you like
+  - run automated tests prior to submission
 
 ## Quality
 
