@@ -9,6 +9,19 @@ Descriptive comments should never replace good naming conventions for methods, v
 parameters or classes. When used in conjunction someone new to the codebase should be able to use
 existing code without stepping though every line of the method.
 
+## Self-documenting Code
+Self-documenting code involves writing code that clearly communicates its purpose and functionality, reducing the need
+for extensive documentation. However, this doesn't mean comments should be eliminated entirely. Striking a balance is
+key.
+
+Before adding comments, consider whether the code can be further refined to enhance clarity—this might include using more
+descriptive names, breaking down functions into smaller, more focused units, or supplementing with more unit tests. Once
+the code is as clear as possible, comments should focus on explaining the intent or the underlying rationale behind the
+implementation.
+
+Together, the code and comments should provide a comprehensive understanding of how the system works and the reasons
+behind its design.
+
 ## Good Example:
 
 ```
